@@ -1,0 +1,195 @@
+{
+    "pointGuards": [
+        {
+            "fullName": "Stephen Curry",
+            "shirtNumber": "30",
+            "Position": "Position.PointGuard",
+            "height": "6´2",
+            "weight": 185,
+            "points": 25.5,
+            "rebounds": 5.2,
+            "assists": 6.3,
+            "blocks": 0.4,
+            "steals": 1.3,
+            "imageFile": "stephenCurry_withBackground.png",
+            "imageDescrip": "stephen curry with background"
+        },
+        {
+            "fullName": "Donte Divincenzo",
+            "shirtNumber": "0",
+            "Position": "Position.PointGuard",
+            "height": "6´4",
+            "weight": 203,
+            "points": 9.0,
+            "rebounds": 4.0,
+            "assists": 2.8,
+            "blocks": 0.2,
+            "steals": 1.1,
+            "imageFile": "donteDivicenzzo_withBackground.png",
+            "imageDescrip": "donte divincenzo with background"
+        },
+        {
+            "fullName": "Jordan Poole",
+            "shirtNumber": "3",
+            "Position": "Position.PointGuard",
+            "height": "6´4",
+            "weight": 194,
+            "points": 18.5,
+            "rebounds": 3.4,
+            "assists": 4.0,
+            "blocks": 0.2,
+            "steals": 0.7,
+            "imageFile": "jordanPoole_withBackground.png",
+            "imageDescrip": "jordan poole with background"
+        }
+    ],
+    "shootingGuards": [
+        {
+            "fullName": "Klay Thompson",
+            "shirtNumber": "11",
+            "Position": "Position.ShootingGuard",
+            "height": "6´6",
+            "weight": 220,
+            "points": 20.4,
+            "rebounds": 3.9,
+            "assists": 2.8,
+            "blocks": 0.5,
+            "steals": 0.9,
+            "imageFile": "klayThomspon_withBackground.png",
+            "imageDescrip": "klay thompson with background"
+        },
+        {
+            "fullName": "Moses Moody",
+            "shirtNumber": "4",
+            "Position": "Position.ShootingGuard",
+            "height": "6´6",
+            "weight": 205,
+            "points": 4.4,
+            "rebounds": 1.5,
+            "assists": 0.4,
+            "blocks": 0.2,
+            "steals": 0.1,
+            "imageFile": "mosesMoody_withBackground.png",
+            "imageDescrip": "moses moody with background"
+        },
+        {
+            "fullName": "Chris Chiozza",
+            "shirtNumber": "2",
+            "Position": "Position.ShootingGuard",
+            "height": "5´11",
+            "weight": 175,
+            "points": 2.0,
+            "rebounds": 1.1,
+            "assists": 0.9,
+            "blocks": 0.0,
+            "steals": 0.4,
+            "imageFile": "chrisChiozza_withBackground.png",
+            "imageDescrip": "chris chiozza with background"
+        }
+    ],
+    "smallForwards": [
+        {
+            "fullName": "Andrew Wiggins",
+            "shirtNumber": "22",
+            "Position": "Position.SmallForward",
+            "height": "6´7",
+            "weight": 197,
+            "points": 17.2,
+            "rebounds": 4.5,
+            "assists": 2.2,
+            "blocks": 0.7,
+            "steals": 1.0,
+            "imageFile": "andrewWiggins_withBackground.png",
+            "imageDescrip": "andrew wiggins with background"
+        },
+        {
+            "fullName": "André Iguodala",
+            "shirtNumber": "9",
+            "Position": "Position.SmallForward",
+            "height": "6´6",
+            "weight": 215,
+            "points": 4.0,
+            "rebounds": 3.2,
+            "assists": 3.7,
+            "blocks": 0.7,
+            "steals": 0.9,
+            "imageFile": "andreIguodala_withBackground.png",
+            "imageDescrip": "andre iguodala with background"
+        },
+        {
+            "fullName": "Jonathan Kuminga",
+            "shirtNumber": "00",
+            "Position": "Position.SmallForward",
+            "height": "6´8",
+            "weight": 210,
+            "points": 9.3,
+            "rebounds": 3.3,
+            "assists": 0.9,
+            "blocks": 0.3,
+            "steals": 0.4,
+            "imageFile": "jonathanKuminga_withBackground.png",
+            "imageDescrip": "jonathan Kuminga with background"
+        }
+    ],
+    "powerForwards": [
+        {
+            "fullName": "Draymond Green",
+            "shirtNumber": "23",
+            "Position": "Position.PowerForward",
+            "height": "6´6",
+            "weight": 230,
+            "points": 7.5,
+            "rebounds": 7.3,
+            "assists": 7.0,
+            "blocks": 1.1,
+            "steals": 1.3,
+            "imageFile": "draymongGreen_withBackground.png",
+            "imageDescrip": "draymond green with background"
+        },
+        {
+            "fullName": "Nemanja Bjelica",
+            "shirtNumber": "8",
+            "Position": "Position.PowerForward",
+            "height": "6´9",
+            "weight": 234,
+            "points": 6.1,
+            "rebounds": 4.1,
+            "assists": 2.2,
+            "blocks": 0.4,
+            "steals": 0.6,
+            "imageFile": "nemanjaBjelica_withBackground.png",
+            "imageDescrip": "nemanja bjelica with background"
+        },
+    
+        {
+            "fullName": "Kevon Looney",
+            "shirtNumber": "5",
+            "Position": "Position.PowerForward",
+            "height": "6´9",
+            "weight": 222,
+            "points": 6.0,
+            "rebounds": 7.3,
+            "assists": 2.0,
+            "blocks": 0.6,
+            "steals": 0.6,
+            "imageFile": "kevonLooney_withBackground.png",
+            "imageDescrip": "kevon looney with background"
+        }
+    ],
+    "centers": [ 
+        {
+            "fullName": "James Wiseman",
+            "shirtNumber": "7",
+            "Position": "Position.Center",
+            "height": "7´0",
+            "weight": 258,
+            "points": 11.5,
+            "rebounds": 5.8,
+            "assists": 0.7,
+            "blocks": 0.9,
+            "steals": 0.3,
+            "imageFile": "jamesWiseman_withBackground.png",
+            "imageDescrip": "james wiseman with background"
+        }
+    ]
+}
