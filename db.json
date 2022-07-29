@@ -1,5 +1,5 @@
 {
-    "pointGuards": [
+    "roster_GoldenStateWarriors": [
         {
             "fullName": "Stephen Curry",
             "shirtNumber": "30",
@@ -41,9 +41,7 @@
             "steals": 0.7,
             "imageFile": "jordanPoole_withBackground.png",
             "imageDescrip": "jordan poole with background"
-        }
-    ],
-    "shootingGuards": [
+        },
         {
             "fullName": "Klay Thompson",
             "shirtNumber": "11",
@@ -85,9 +83,7 @@
             "steals": 0.4,
             "imageFile": "chrisChiozza_withBackground.png",
             "imageDescrip": "chris chiozza with background"
-        }
-    ],
-    "smallForwards": [
+        },
         {
             "fullName": "Andrew Wiggins",
             "shirtNumber": "22",
@@ -129,9 +125,7 @@
             "steals": 0.4,
             "imageFile": "jonathanKuminga_withBackground.png",
             "imageDescrip": "jonathan Kuminga with background"
-        }
-    ],
-    "powerForwards": [
+        },
         {
             "fullName": "Draymond Green",
             "shirtNumber": "23",
@@ -174,9 +168,7 @@
             "steals": 0.6,
             "imageFile": "kevonLooney_withBackground.png",
             "imageDescrip": "kevon looney with background"
-        }
-    ],
-    "centers": [ 
+        }, 
         {
             "fullName": "James Wiseman",
             "shirtNumber": "7",
